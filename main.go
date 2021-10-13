@@ -6,6 +6,7 @@ func main() {
 	input := []int{-5, -3, -2, -1}
 	output := sortedSquares(input)
 
+	// Testing Git commit
 	fmt.Println(output)
 }
 
